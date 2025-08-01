@@ -29,10 +29,9 @@ Criar uma aplicação de lista de tarefas que permita ao usuário:
   • Como rodar localmente
 
 🌟 Funcionalidades principais:
-✔ Adicionar nova tarefa
-✔ Marcar/desmarcar tarefa como concluída
-✔ Excluir tarefa
-✔ Persistência de tarefas usando localStorage (mesmo após fechar o navegador)
+✔️ Adicionar uma nova tarefa
+✔️ Marcar/desmarcar tarefa como concluída
+✔️Persistência de tarefas usando *localStorage* mesmo após (fechar o navegador)
 
 ⚠️ Funcionalidades extras (opcional/teoria):
 - Filtrar tarefas (todas, concluídas, pendentes)
