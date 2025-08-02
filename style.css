@@ -96,6 +96,15 @@ body{
 
 }
 
+.passeword-container i {
+    position: absolute;
+  top: 50%;
+  font-size: 20px;
+  right: 20px;
+  transform: translateY(-50%);
+  color: #A0522D;
+}
+
 .login {
   width: 100%;
   height: 50px;
@@ -126,8 +135,8 @@ body{
 
 .register-link a {
   text-decoration: none;
-  color: #fff;
-  font-weight: 500;
+  color: #ffffff;
+  font-weight: 600;
 
 }
 
