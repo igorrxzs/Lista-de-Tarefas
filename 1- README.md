@@ -37,3 +37,19 @@ Criar uma aplicação de lista de tarefas que permita ao usuário:
 - Filtrar tarefas (todas, concluídas, pendentes)
 - Modo claro/escuro (dark mode)
 - Layout mais bonito usando Bootstrap ou customizações em CSS
+
+
+1 - Pagina de Cadastro
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e92e9b9-c361-4356-8efa-1afece704ea0" />
+
+2 - Pagina de Login
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/997b7fbd-53b2-4bae-a4b6-37e5181bcb8d" />
+
+3 - Pagina de Recuperação de Senha
+<img width="1920" height="1068" alt="image" src="https://github.com/user-attachments/assets/e2bdb65d-55d5-4cbc-bc62-834049f8f977" />
+
+4 - Pagina de Redifinir Senha
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/49291f91-25fa-4c58-85b0-bcf87d263dc5" />
+
+5 - Pagina de Sobre Nós
+<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/7ad47d62-3260-4fcd-aa41-f5fe0f177ae9" />
